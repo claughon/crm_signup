@@ -1,0 +1,168 @@
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 2%;
+}
+
+#logo1{
+    width: 150px;
+    height: auto;
+}
+
+.container{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+}
+
+
+.links{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    font-size: 75%;
+}
+
+
+
+a{
+    text-decoration: none;
+    color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+.firstchunk{
+    padding-bottom: 3%;
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+}
+
+
+#first{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 10px;
+    font-size: 12px;
+
+}
+
+
+#dashboard{
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+    height: auto;
+}
+
+
+hr{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.works{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+
+.woman{
+    border-style: solid;
+    border-width: 1px;
+    border-color: lightgrey;
+    border-radius: 10px;
+
+}
+
+
+.collect{
+    max-width: 100%;
+    height: auto;
+    padding: 15%;
+}
+
+.collect-doc{
+    background-color: blue;
+    color: white;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding-left: 20px;
+    padding: 5%;
+}
+
+
+.works{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+
+#payment{
+    max-width: 100%;
+    height: auto;
+}
+
+.payments{
+    padding-bottom: 8%;
+    padding-top: 3%;
+}
+
+.paid{
+    background-color: blue;
+    color: white;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+
+.paragraph4{
+    padding: 10%;
+    
+}
+
+
+
+.footer{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: blue;
+    color: white;
+    padding: 5%;
+    justify-content: space-around;
+}
+
+
+.btn-light{
+    color: blue;
+}
+
+
+#last{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+
+
+.btn-success{
+    background-color: green;
+}
+
+.dot{
+    width:1%;
+    height: auto
+}

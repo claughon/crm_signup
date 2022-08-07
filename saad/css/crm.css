@@ -1,0 +1,15 @@
+#first-button {
+    background-color: white;
+    border-style: solid;
+    border-color: blue;
+    color: blue;
+}
+
+.d-grid {
+    margin-right: 80px;
+}
+
+.btn-chat {
+    border-style: ridge;
+    border-radius: 30%;
+}
