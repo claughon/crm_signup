@@ -12,4 +12,110 @@
 .btn-chat {
     border-style: ridge;
     border-radius: 30%;
+    background-color: white;
 }
+
+hr {
+    max-width: 600px;
+    margin: 30px auto
+}
+
+.middle {
+    text-align: center;
+}
+
+.all-the-images {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.container img{
+    width: 100px;
+}
+
+.img-1 {
+    border-style: ridge;
+    width: 80px;
+    background-color: blue;
+    border-radius: 15px;
+}
+
+.img-2 {
+    border-style: ridge;
+    border-radius: 15px;
+    width: 80px;
+}
+.img-3 {
+    border-style: ridge;
+    border-radius: 15px;
+}
+.img-4 {
+    border-style: ridge;
+    border-radius: 15px;
+}
+
+.card {
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+    margin-top: 40px;
+    }
+
+.lines {
+    font-size: small;
+}
+
+.card-body {
+    background-color: blue;
+}
+
+.card img {
+    height: 60%;
+}
+
+.solution {
+    text-align: center;
+}
+
+.col {
+    margin-top: 20px;
+}
+
+.btn-secondary {
+    margin-top: 20px;
+    background-color: white;
+    color: black;
+}
+
+.focus-box {
+    margin-left: 80px;
+}
+
+.footer {
+    color: white;
+    background-color: blue;
+    align-items: center;
+    border-top: solid;
+    margin-top: 50px;
+}
+
+.footer-btn {
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+.try {
+    text-align: center;
+}
+
+.started {
+    text-align: center;
+}
+
+.free {
+    margin-top: 30px;
+}
+
