@@ -1,12 +1,14 @@
 .nav{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     align-items: center;
-    padding: 2%;
+    padding-top: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
 }
 
 #logo1{
-    width: 150px;
+    width: 170px;
     height: auto;
 }
 
@@ -29,16 +31,25 @@
 a{
     text-decoration: none;
     color: black;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
+
+#signin{
+    color: #075FD6;
+}
 
 .firstchunk{
     padding-bottom: 3%;
     display: flex;
     align-items: stretch;
     justify-content: space-between;
+}
+
+
+#signup{
+    color: white;
 }
 
 
